@@ -25,10 +25,11 @@
   ---
 
 ### :woman_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia who is highly motivated, 
+  and eager to learn new things in software development across my current expertise. 
+  I have great understanding in object oriented programming, data structure, RESTful API and web development.
+  
   - :telescope: I’m working as a Full Stack Developer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I read tech articles, build random websites, learning programming languages, play musics.
 
